@@ -1,0 +1,19 @@
+               EMPRESA DE TELECOMUNICACIONES S.A
+                DETALLE DEL PAGO DE UTILIDADES
+================================================================================
+Anio: 2018 
+Monto de Utilidades totales de la empresa: s/.  800000.00
+Porcentaje a repartir entre los empleados: 10.00
+Total de utilidades a repartir entre los empleados: S/. 80000.00
+================================================================================
+      Empleado Sueldo mensual (s/.) Monto por dias(s/.) Monto por sueldo Utilidad(s/.)
+================================================================================
+ 1)    123456       4000.00              13675.21         17851.60          31526.81 
+ 2)    135648       5500.42              15042.74         16869.76          31912.50 
+ 3)    554623       2500.00              15726.50         15709.42          31435.92 
+ 4)    523654       5643.20              25982.91         17296.22          43279.13 
+ 5)    232145       1235.50               9572.65         12272.99          21845.64 
+RESUMEN: 
+Total de empleados:    5
+Monto por dias laborados: s/. 40000.00
+ Monto por remuneraciones s/. 40000.00 

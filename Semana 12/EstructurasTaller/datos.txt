@@ -1,0 +1,6 @@
+20171234,Diego Alejandro Salas,INF401,Tecnicas de programacion, 5.0,401,INF102,Algoritmos,4.5,103
+20171423,Gonzales Richard Jesus,INF101,Fundamentos de programacion, 5.0,401,INF105,Estructuras Discretas,3.5, 101
+20172469,Axel Romero Chambi,INF401,Tecnicas de programacion, 5.0,401,INF102,Algoritmos,4.5,103
+
+
+

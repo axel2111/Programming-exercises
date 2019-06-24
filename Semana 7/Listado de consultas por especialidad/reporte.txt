@@ -1,0 +1,821 @@
+                   CLINICA SU SALUD S.A
+                   LISTADO DE CONSULTAS
+  Desde: 01/11/2018               Hasta: 04/01/2019
+===============================================================================================
+
+
+  Especialidad: 848006
+  Costo de la consulta: 139.00
+===============================================================================================
+  Doctor: 45144
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  17/11/2018      69718975         58              86.32             57          921768248
+  27/11/2018      01399137         25             124.68             80          961199243
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h23m
+  Monto Facturado: 211.00                    Monto por cobrar al seguro: 67.00
+===============================================================================================
+  Doctor: 83279
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  31/12/2018      79826708         31              86.88              6          991696700
+  16/11/2018      06519010          5             102.86             54          997048774
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h36m
+  Monto Facturado: 189.74                    Monto por cobrar al seguro: 88.26
+===============================================================================================
+  Doctor: 40119
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  02/01/2019      88058115         11              66.86             50          966354170
+  25/11/2018      69718975         30              86.32             57          921768248
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h41m
+  Monto Facturado: 153.18                    Monto por cobrar al seguro: 124.82
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 553.91
+  Monto total por cobrar al seguro s/. 280.08
+  Tiempo total efectivo: 2h40m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 40119
+  Monto facturado: 153.18
+  Tiempo efectivo de atencion: 0h41m
+===============================================================================================
+
+
+  Especialidad: 466949
+  Costo de la consulta: 104.00
+===============================================================================================
+  Doctor: 43979
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  08/12/2018      01509746         18              66.56            107          920987936
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h18m
+  Monto Facturado: 66.56                    Monto por cobrar al seguro: 37.44
+===============================================================================================
+  Doctor: 40997
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  22/12/2018      79826708         33              65.00              6          991696700
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h33m
+  Monto Facturado: 65.00                    Monto por cobrar al seguro: 39.00
+===============================================================================================
+  Doctor: 12446
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  22/12/2018      23481761         85              36.92              8          936884791
+  03/01/2019      79826708         47              65.00              6          991696700
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 2h12m
+  Monto Facturado: 101.92                    Monto por cobrar al seguro: 106.08
+===============================================================================================
+  Doctor: 62059
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  26/11/2018      02928165         45              34.94             99          988737614
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h45m
+  Monto Facturado: 34.94                    Monto por cobrar al seguro: 69.06
+===============================================================================================
+  Doctor: 32147
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  24/12/2018      22250785         -4              55.85              2          953055717
+  07/12/2018      80734688         67              63.54             17          998692545
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h3m
+  Monto Facturado: 119.39                    Monto por cobrar al seguro: 88.61
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 387.82
+  Monto total por cobrar al seguro s/. 340.18
+  Tiempo total efectivo: 4h51m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 62059
+  Monto facturado: 34.94
+  Tiempo efectivo de atencion: 0h45m
+===============================================================================================
+
+
+  Especialidad: 783730
+  Costo de la consulta: 68.00
+===============================================================================================
+  Doctor: 44190
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  10/12/2018      95772583         47              21.69              6          924982865
+  14/11/2018      11778564         52              15.91            110          939693148
+  12/11/2018      22250785         32              36.52              2          953055717
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 03                 Tiempo efectivo de atencion: 2h11m
+  Monto Facturado: 74.12                    Monto por cobrar al seguro: 129.88
+===============================================================================================
+  Doctor: 66143
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  03/11/2018      01509746         -2              43.52            107          920987936
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h-2m
+  Monto Facturado: 43.52                    Monto por cobrar al seguro: 24.48
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 117.64
+  Monto total por cobrar al seguro s/. 154.36
+  Tiempo total efectivo: 2h9m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 62059
+  Monto facturado: 34.94
+  Tiempo efectivo de atencion: 0h45m
+===============================================================================================
+
+
+  Especialidad: 854289
+  Costo de la consulta: 150.00
+===============================================================================================
+  Doctor: 36822
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  29/11/2018      46809517         94              44.10             30          966857104
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h34m
+  Monto Facturado: 44.10                    Monto por cobrar al seguro: 105.90
+===============================================================================================
+  Doctor: 60258
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  22/11/2018      36568001         27              46.95             71          971487770
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h27m
+  Monto Facturado: 46.95                    Monto por cobrar al seguro: 103.05
+===============================================================================================
+  Doctor: 35022
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  27/12/2018      28546319          6             116.40             32          994822388
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h6m
+  Monto Facturado: 116.40                    Monto por cobrar al seguro: 33.60
+===============================================================================================
+  Doctor: 74324
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  06/11/2018      13423972         54             117.45             37          996674338
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h54m
+  Monto Facturado: 117.45                    Monto por cobrar al seguro: 32.55
+===============================================================================================
+  Doctor: 26117
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  27/11/2018      29061350         51             113.55             89          965938070
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h51m
+  Monto Facturado: 113.55                    Monto por cobrar al seguro: 36.45
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 438.45
+  Monto total por cobrar al seguro s/. 311.55
+  Tiempo total efectivo: 3h52m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 62059
+  Monto facturado: 34.94
+  Tiempo efectivo de atencion: 0h45m
+===============================================================================================
+
+
+  Especialidad: 340904
+  Costo de la consulta: 68.00
+===============================================================================================
+  Doctor: 36190
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  19/12/2018      11778564         46              15.91            110          939693148
+  05/11/2018      43679267         61              60.18              5          952439506
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h47m
+  Monto Facturado: 76.09                    Monto por cobrar al seguro: 59.91
+===============================================================================================
+  Doctor: 41273
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  06/11/2018      01509746         93              43.52            107          920987936
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h33m
+  Monto Facturado: 43.52                    Monto por cobrar al seguro: 24.48
+===============================================================================================
+  Doctor: 37746
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  05/12/2018      83285391         40              28.36             88          926372793
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h40m
+  Monto Facturado: 28.36                    Monto por cobrar al seguro: 39.64
+===============================================================================================
+  Doctor: 57048
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  03/12/2018      75924350          9              26.66            102          971477733
+  22/12/2018      82062384         21              51.61             98          993464896
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h30m
+  Monto Facturado: 78.27                    Monto por cobrar al seguro: 57.73
+===============================================================================================
+  Doctor: 20966
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  02/01/2019      06519010         73              50.32             54          997048774
+  28/11/2018      62093017         55              60.11             54          979106480
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 2h8m
+  Monto Facturado: 110.43                    Monto por cobrar al seguro: 25.57
+===============================================================================================
+  Doctor: 24384
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  11/12/2018      39992412         32              14.14            102          972437007
+  11/11/2018      49444649         10              41.41             86          974405998
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h42m
+  Monto Facturado: 55.56                    Monto por cobrar al seguro: 80.44
+===============================================================================================
+  Doctor: 94871
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  01/11/2018      78595592         41              31.28              2          942249489
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h41m
+  Monto Facturado: 31.28                    Monto por cobrar al seguro: 36.72
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 423.50
+  Monto total por cobrar al seguro s/. 324.50
+  Tiempo total efectivo: 8h1m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 407268
+  Costo de la consulta: 105.00
+===============================================================================================
+  Doctor: 94254
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  01/11/2018      54261851         49              43.05            122          950691898
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h49m
+  Monto Facturado: 43.05                    Monto por cobrar al seguro: 61.95
+===============================================================================================
+  Doctor: 55358
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  18/11/2018      49444649         60              63.95             86          974405998
+  19/11/2018      27138910         69              73.92             65          916968671
+  04/11/2018      75924350         43              41.16            102          971477733
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 03                 Tiempo efectivo de atencion: 2h52m
+  Monto Facturado: 179.03                    Monto por cobrar al seguro: 135.97
+===============================================================================================
+  Doctor: 19254
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  11/12/2018      94857884         41              46.41            104          974727901
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h41m
+  Monto Facturado: 46.41                    Monto por cobrar al seguro: 58.59
+===============================================================================================
+  Doctor: 90687
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  02/11/2018      37908602         20              82.84             76          965619713
+  19/12/2018      01509746         72              67.20            107          920987936
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h32m
+  Monto Facturado: 150.05                    Monto por cobrar al seguro: 59.95
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 418.53
+  Monto total por cobrar al seguro s/. 316.47
+  Tiempo total efectivo: 5h54m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 522523
+  Costo de la consulta: 72.00
+===============================================================================================
+  Doctor: 22942
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  16/12/2018      69718975         22              44.71             57          921768248
+  13/12/2018      30700734         21              20.81             57          973098510
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h43m
+  Monto Facturado: 65.52                    Monto por cobrar al seguro: 78.48
+===============================================================================================
+  Doctor: 96188
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  20/11/2018      52875534         43              70.27             48          935853219
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h43m
+  Monto Facturado: 70.27                    Monto por cobrar al seguro: 1.73
+===============================================================================================
+  Doctor: 88161
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  24/11/2018      30069162         57              51.26             31          965026612
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h57m
+  Monto Facturado: 51.26                    Monto por cobrar al seguro: 20.74
+===============================================================================================
+  Doctor: 63899
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  23/12/2018      45953309         46              62.93            112          998684723
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h46m
+  Monto Facturado: 62.93                    Monto por cobrar al seguro: 9.07
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 249.98
+  Monto total por cobrar al seguro s/. 110.02
+  Tiempo total efectivo: 3h9m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 869975
+  Costo de la consulta: 134.00
+===============================================================================================
+  Doctor: 82187
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  24/11/2018      46270405         49              53.87             40          968350337
+  14/12/2018      88058115         55              64.45             50          966354170
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h44m
+  Monto Facturado: 118.32                    Monto por cobrar al seguro: 149.68
+===============================================================================================
+  Doctor: 83982
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  30/12/2018      57834880         62              50.38             90          992016137
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h2m
+  Monto Facturado: 50.38                    Monto por cobrar al seguro: 83.62
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 168.71
+  Monto total por cobrar al seguro s/. 233.29
+  Tiempo total efectivo: 2h46m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 537678
+  Costo de la consulta: 87.00
+===============================================================================================
+  Doctor: 83538
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  02/12/2018      70245725         31              46.81             50          929546185
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h31m
+  Monto Facturado: 46.81                    Monto por cobrar al seguro: 40.19
+===============================================================================================
+  Doctor: 55354
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  28/12/2018      68541675         98              29.75             80          954985086
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h38m
+  Monto Facturado: 29.75                    Monto por cobrar al seguro: 57.25
+===============================================================================================
+  Doctor: 38728
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  28/12/2018      33888473         82              34.63            112          946592105
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h22m
+  Monto Facturado: 34.63                    Monto por cobrar al seguro: 52.37
+===============================================================================================
+  Doctor: 45462
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  31/12/2018      59847495         49              82.39             15          963483462
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h49m
+  Monto Facturado: 82.39                    Monto por cobrar al seguro: 4.61
+===============================================================================================
+  Doctor: 31146
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  16/12/2018      10982555         17              53.68              8          968937633
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h17m
+  Monto Facturado: 53.68                    Monto por cobrar al seguro: 33.32
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 247.25
+  Monto total por cobrar al seguro s/. 187.75
+  Tiempo total efectivo: 4h37m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 191442
+  Costo de la consulta: 97.00
+===============================================================================================
+  Doctor: 36451
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  07/11/2018      54261851         82              39.77            122          950691898
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h22m
+  Monto Facturado: 39.77                    Monto por cobrar al seguro: 57.23
+===============================================================================================
+  Doctor: 36452
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  07/11/2018      74226076         21              74.88             82          996082542
+  15/12/2018      88058115         68              46.66             50          966354170
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h29m
+  Monto Facturado: 121.54                    Monto por cobrar al seguro: 72.46
+===============================================================================================
+  Doctor: 79476
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  27/11/2018      23481761         71              34.44              8          936884791
+  05/12/2018      23481761         12              34.44              8          936884791
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h23m
+  Monto Facturado: 68.87                    Monto por cobrar al seguro: 125.13
+===============================================================================================
+  Doctor: 56650
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  15/12/2018      40716999         65              87.59            124          990152048
+  29/12/2018      10656086         51              55.68             85          971041056
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h56m
+  Monto Facturado: 143.27                    Monto por cobrar al seguro: 50.73
+===============================================================================================
+  Doctor: 67186
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  14/12/2018      01509746         52              62.08            107          920987936
+  05/11/2018      45953309         43              84.78            112          998684723
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h35m
+  Monto Facturado: 146.86                    Monto por cobrar al seguro: 47.14
+===============================================================================================
+  Doctor: 26719
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  15/12/2018      36568001         -8              30.36             71          971487770
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h-8m
+  Monto Facturado: 30.36                    Monto por cobrar al seguro: 66.64
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 550.67
+  Monto total por cobrar al seguro s/. 419.33
+  Tiempo total efectivo: 7h37m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 212824
+  Costo de la consulta: 103.00
+===============================================================================================
+  Doctor: 52118
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  03/01/2019      70245725         93              55.41             50          929546185
+  16/12/2018      47345813         60              43.05            109          948540531
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 2h33m
+  Monto Facturado: 98.47                    Monto por cobrar al seguro: 107.53
+===============================================================================================
+  Doctor: 54713
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  04/12/2018      98585177         94              61.49            101          994141260
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h34m
+  Monto Facturado: 61.49                    Monto por cobrar al seguro: 41.51
+===============================================================================================
+  Doctor: 34761
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  14/12/2018      39992412         45              21.42            102          972437007
+  10/11/2018      06519010         33              76.22             54          997048774
+  30/11/2018      03280835         24              93.42             98          936697482
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 03                 Tiempo efectivo de atencion: 1h42m
+  Monto Facturado: 191.07                    Monto por cobrar al seguro: 117.94
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 351.02
+  Monto total por cobrar al seguro s/. 266.98
+  Tiempo total efectivo: 5h49m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 380433
+  Costo de la consulta: 103.00
+===============================================================================================
+  Doctor: 22737
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  19/11/2018      00720026         76              40.38             62          978944394
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 1h16m
+  Monto Facturado: 40.38                    Monto por cobrar al seguro: 62.62
+===============================================================================================
+  Doctor: 28216
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  26/11/2018      57403492         21              44.19             16          938185088
+  02/12/2018      62093017         14              91.05             54          979106480
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h35m
+  Monto Facturado: 135.24                    Monto por cobrar al seguro: 70.76
+===============================================================================================
+  Doctor: 75999
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  18/12/2018      86562348         21              37.59            111          995369917
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h21m
+  Monto Facturado: 37.59                    Monto por cobrar al seguro: 65.41
+===============================================================================================
+  Doctor: 51775
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  05/11/2018      23481761         52              36.56              8          936884791
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h52m
+  Monto Facturado: 36.56                    Monto por cobrar al seguro: 66.44
+===============================================================================================
+  Doctor: 93264
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  26/12/2018      55269854         29              95.48             25          983192431
+  11/11/2018      69718975         17              63.96             57          921768248
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h46m
+  Monto Facturado: 159.44                    Monto por cobrar al seguro: 46.56
+===============================================================================================
+  Doctor: 80153
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  19/12/2018      79655964         19              55.62            120          988265655
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h19m
+  Monto Facturado: 55.62                    Monto por cobrar al seguro: 47.38
+===============================================================================================
+  Doctor: 47031
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  18/11/2018      86562348         70              37.59            111          995369917
+  15/11/2018      93527687         45              26.68            109          975105651
+  26/11/2018      54261851        118              42.23            122          950691898
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 03                 Tiempo efectivo de atencion: 3h53m
+  Monto Facturado: 106.50                    Monto por cobrar al seguro: 202.50
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 571.34
+  Monto total por cobrar al seguro s/. 561.66
+  Tiempo total efectivo: 8h2m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 629060
+  Costo de la consulta: 125.00
+===============================================================================================
+  Doctor: 99540
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  03/01/2019      49928792         72              34.25            119          927959381
+  03/11/2018      23481761         37              44.38              8          936884791
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h49m
+  Monto Facturado: 78.63                    Monto por cobrar al seguro: 171.38
+===============================================================================================
+  Doctor: 95308
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  04/12/2018      30069162         35              89.00             31          965026612
+  05/12/2018      30783287         37              72.25             96          919969267
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h12m
+  Monto Facturado: 161.25                    Monto por cobrar al seguro: 88.75
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 239.88
+  Monto total por cobrar al seguro s/. 260.13
+  Tiempo total efectivo: 3h1m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 37746
+  Monto facturado: 28.36
+  Tiempo efectivo de atencion: 0h40m
+===============================================================================================
+
+
+  Especialidad: 904783
+  Costo de la consulta: 55.00
+===============================================================================================
+  Doctor: 55748
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  13/12/2018      27138910         18              38.72             65          916968671
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h18m
+  Monto Facturado: 38.72                    Monto por cobrar al seguro: 16.28
+===============================================================================================
+  Doctor: 94484
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  28/11/2018      40843277         33              24.97            111          918805550
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h33m
+  Monto Facturado: 24.97                    Monto por cobrar al seguro: 30.03
+===============================================================================================
+  Doctor: 38763
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  23/12/2018      46809517          7              16.17             30          966857104
+  30/12/2018      67917911         17              24.70              4          971817934
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 0h24m
+  Monto Facturado: 40.86                    Monto por cobrar al seguro: 69.14
+===============================================================================================
+  Doctor: 66216
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  04/12/2018      21390779         28              21.78             85          979286970
+  26/12/2018      37908602         53              43.40             76          965619713
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h21m
+  Monto Facturado: 65.18                    Monto por cobrar al seguro: 44.82
+===============================================================================================
+  Doctor: 88185
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  14/11/2018      46809517         47              16.17             30          966857104
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h47m
+  Monto Facturado: 16.17                    Monto por cobrar al seguro: 38.83
+===============================================================================================
+  Doctor: 31093
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  10/12/2018      75924350          4              21.56            102          971477733
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h4m
+  Monto Facturado: 21.56                    Monto por cobrar al seguro: 33.44
+===============================================================================================
+  Doctor: 40816
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  08/12/2018      82062384         68              41.75             98          993464896
+  05/11/2018      29061350         29              41.64             89          965938070
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h37m
+  Monto Facturado: 83.38                    Monto por cobrar al seguro: 26.62
+===============================================================================================
+  Doctor: 41326
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  05/11/2018      04678845         43              15.90             62          929123440
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h43m
+  Monto Facturado: 15.90                    Monto por cobrar al seguro: 39.11
+===============================================================================================
+  Doctor: 71116
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  07/11/2018      94857884         32              24.31            104          974727901
+  19/12/2018      01399137         32              49.34             80          961199243
+  01/11/2018      24125255         66              34.98             20          964284264
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 03                 Tiempo efectivo de atencion: 2h10m
+  Monto Facturado: 108.63                    Monto por cobrar al seguro: 56.37
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 415.36
+  Monto total por cobrar al seguro s/. 354.64
+  Tiempo total efectivo: 7h57m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 41326
+  Monto facturado: 15.90
+  Tiempo efectivo de atencion: 0h43m
+===============================================================================================
+
+
+  Especialidad: 643633
+  Costo de la consulta: 79.00
+===============================================================================================
+  Doctor: 64512
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  27/12/2018      47345813         53              33.02            109          948540531
+  04/12/2018      10656086         51              45.35             85          971041056
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 02                 Tiempo efectivo de atencion: 1h44m
+  Monto Facturado: 78.37                    Monto por cobrar al seguro: 79.63
+===============================================================================================
+  Doctor: 62846
+-----------------------------------------------------------------------------------------------
+    FECHA        Paciente      Duracion(min)  Monto Pagado(s/.)  Distrito        Telefono
+  01/01/2019      57834880         49              29.70             90          992016137
+-----------------------------------------------------------------------------------------------
+  Cantidad de consultas: 01                 Tiempo efectivo de atencion: 0h49m
+  Monto Facturado: 29.70                    Monto por cobrar al seguro: 49.30
+-----------------------------------------------------------------------------------------------
+  RESUMEN POR ESPECIALIDAD: 
+  Monto total facturado: s/. 108.07
+  Monto total por cobrar al seguro s/. 128.93
+  Tiempo total efectivo: 2h33m
+
+  Doctor que mas facturo: 45144
+  Monto facturado: 211.00
+  Tiempo efectivo de atencion: 1h23m
+  Doctor que menos facturo: 41326
+  Monto facturado: 15.90
+  Tiempo efectivo de atencion: 0h43m
