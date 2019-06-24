@@ -1,0 +1,6 @@
+236589,Juan Perez,Cardiologia,535.75
+173699,Maria Gomez,Pediatría,350.00
+212389,Carlos Rodriguez,Dermatologia,535.75
+432399,Cristiano Ronaldo,Delantero,1500.00
+543489,Lionel Messi,Delantero,5000.75
+765499,Luiss uarez,Dienton,1523.05
