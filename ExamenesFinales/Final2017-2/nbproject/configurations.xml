@@ -4,7 +4,10 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
-      <itemPath>FuncionesAux.h</itemPath>
+      <itemPath>Clientes.h</itemPath>
+      <itemPath>Fecha.h</itemPath>
+      <itemPath>FuncionesPedidos.h</itemPath>
+      <itemPath>Productos.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -13,7 +16,7 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>FuncionesAux.c</itemPath>
+      <itemPath>FuncionesPedidos.c</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -38,9 +41,15 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="FuncionesAux.c" ex="false" tool="0" flavor2="0">
+      <item path="Clientes.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="FuncionesAux.h" ex="false" tool="3" flavor2="0">
+      <item path="Fecha.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FuncionesPedidos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesPedidos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Productos.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
@@ -65,9 +74,15 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="FuncionesAux.c" ex="false" tool="0" flavor2="0">
+      <item path="Clientes.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="FuncionesAux.h" ex="false" tool="3" flavor2="0">
+      <item path="Fecha.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FuncionesPedidos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="FuncionesPedidos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Productos.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>

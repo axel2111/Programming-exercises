@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/* 
+/*
  * File:   FuncionesBin.h
  * Author: Axel
  *
@@ -16,10 +16,10 @@
 #include "Cadenas.h"
 #include "Persona.h"
 void crearArhivoBinario(FILE *entrada, FILE *salida);
-void leerPersona (FILE *arch , struct Persona *persona );
+void leerPersona(FILE *arch, struct Persona *persona);
 void mostrarDatos(FILE *archBin);
-void aumetarSueldo (FILE *archBin) ; 
-    
+void modificaRegistro(int registro, FILE *archBin);
+void aumetarSueldo(FILE *archBin);
 
 #endif /* FUNCIONESBIN_H */
 
